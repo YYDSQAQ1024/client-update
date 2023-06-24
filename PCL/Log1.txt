@@ -1,0 +1,68 @@
+[18:10:04.606] [Start] 程序版本：Release 2.6.1（293）
+[18:10:04.612] [Start] 识别码：4DF4-C180-37DD-93A9
+[18:10:04.612] [Start] 程序路径：C:\Users\Administrator\Desktop\Plain Craft Launcher 2.exe
+[18:10:04.631] [Start] 第一阶段加载用时：250 ms
+[18:10:05.190] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[18:10:05.193] [Start] 第二阶段加载用时：531 ms
+[18:10:05.237] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[18:10:05.925] [System] 窗口已置顶，位置：(107, 129), 810 x 470
+[18:10:05.940] [Animation] 动画线程开始
+[18:10:06.162] [Start] 第三阶段加载用时：375 ms
+[18:10:06.198] [Launch] Minecraft 文件夹：D:\.minecraft\
+[18:10:06.202] [Start] 加载 DLL：Json
+[18:10:06.203] [System] 获取资源：Json
+[18:10:06.408] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[18:10:06.439] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[18:10:06.539] [Animation] 两个动画帧间隔 515 ms
+[18:10:06.599] [Skin] 载入头像成功：Loader Skin Legacy
+[18:10:06.603] [Minecraft] 启动按钮：Minecraft 版本：D:\.minecraft\versions\1.18.2\
+[18:10:06.621] [Loader] 加载器 登录 状态改变：Loading
+[18:10:06.656] [System] DPI：96，系统版本：10.0.19043.0，PCL 位置：C:\Users\Administrator\Desktop\Plain Craft Launcher 2.exe
+[18:10:06.744] [Launch] 登录加载已开始
+[18:10:06.866] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[18:10:06.868] [Launch] 登录方式：离线（YYDS_QAQ）
+[18:10:06.873] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[18:10:06.888] [Launch] 登录加载已结束
+[18:10:06.888] [Loader] 加载器 登录 状态改变：Finished
+[18:10:06.907] [Java] 缓存中有 4 个可用的 Java
+[18:10:07.135] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[18:10:07.149] [Loader] 加载器 PCL 服务 状态改变：Loading
+[18:10:07.151] [Server] 正在连接到 PCL 服务器
+[18:10:07.151] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[18:10:07.177] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1687601407-1b2181ea-0-a96e49c901e8a2aebe0ee85cdcd154f1，最大超时 10000
+[18:10:08.973] [Control] 按下单选按钮：下载
+[18:10:09.495] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[18:10:09.537] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
+[18:10:09.539] [Loader] 加载器 DlClientList Mojang 状态改变：Waiting
+[18:10:09.542] [Control] 切换主要页面：Download, -1
+[18:10:09.544] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，最大超时 10000
+[18:10:09.560] [Animation] 两个动画帧间隔 578 ms
+[18:10:09.640] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[18:10:09.646] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[18:10:09.657] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[18:10:09.659] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[18:10:09.672] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[18:10:09.678] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，最大超时 10000
+[18:10:09.686] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，最大超时 10000
+[18:10:09.688] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[18:10:09.691] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，最大超时 10000
+[18:10:09.718] [Download] 刷新 Forge 推荐版本缓存开始
+[18:10:09.732] [Loader] 加载器 源码获取 179# 状态改变：Loading
+[18:10:10.020] [Download] -1798645995_178 196#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[18:10:10.794] [Report] FPS 0, 动画 2, 下载中 1（0 B/s）
+[18:10:15.738] [Server] 服务器公告：110|297|293|5，本地公告编号：108，需更新
+[18:10:15.769] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1687601416-121d3b5c-0-aee39f5bcbb1ce06365ebdabb99ec4b6，最大超时 10000
+[18:10:16.524] [Loader] 加载器 PCL 服务 状态改变：Finished
+[18:10:17.821] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 30000
+[18:10:19.788] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[18:10:19.800] [Loader] 加载器 DlClientList Bmclapi 状态改变：Aborted
+[18:10:20.098] [Animation] 两个动画帧间隔 281 ms
+[18:10:20.129] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[18:10:20.877] [Download] -1798645995_178 196#：超时（6s）
+[18:10:20.951] [Download] -1798645995_178 231#：开始，起始点 0，https://download.mcbbs.net/forge/promos
+[18:10:21.364] [Net] 获取网络结果：https://download.mcbbs.net/fabric-meta/v2/versions，最大超时 30000
+[18:10:21.364] [Net] 获取网络结果：https://download.mcbbs.net/optifine/versionList，最大超时 30000
+[18:10:21.365] [Net] 获取网络结果：https://download.mcbbs.net/maven/com/mumfrey/liteloader/versions.json，最大超时 30000
+[18:10:23.805] [Control] 按下图标按钮：BtnTitleClose
+[18:10:23.860] [System] 收到关闭指令
+[18:10:24.141] [System] 程序已退出，返回值：Success

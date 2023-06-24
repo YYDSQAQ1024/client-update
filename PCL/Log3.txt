@@ -1,0 +1,187 @@
+[09:07:08.845] [Start] 程序版本：Release 2.6.1（293）
+[09:07:08.850] [Start] 识别码：4DF4-C180-37DD-93A9
+[09:07:08.850] [Start] 程序路径：C:\Users\Administrator\Desktop\Plain Craft Launcher 2.exe
+[09:07:08.870] [Start] 第一阶段加载用时：204 ms
+[09:07:09.314] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[09:07:09.323] [Start] 第二阶段加载用时：438 ms
+[09:07:09.493] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[09:07:09.848] [System] 窗口已置顶，位置：(107, 129), 810 x 470
+[09:07:09.866] [Animation] 动画线程开始
+[09:07:10.258] [Start] 第三阶段加载用时：562 ms
+[09:07:10.267] [Start] 加载 DLL：Json
+[09:07:10.268] [System] 获取资源：Json
+[09:07:10.324] [Launch] Minecraft 文件夹：D:\.minecraft\
+[09:07:10.589] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[09:07:10.611] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[09:07:10.726] [Animation] 两个动画帧间隔 781 ms
+[09:07:10.728] [Java] 缓存中有 4 个可用的 Java
+[09:07:10.798] [Skin] 载入头像成功：Loader Skin Legacy
+[09:07:10.799] [System] DPI：96，系统版本：10.0.19043.0，PCL 位置：C:\Users\Administrator\Desktop\Plain Craft Launcher 2.exe
+[09:07:10.805] [Minecraft] 启动按钮：Minecraft 版本：D:\.minecraft\versions\1.18.2\
+[09:07:10.816] [Loader] 加载器 登录 状态改变：Loading
+[09:07:10.865] [Launch] 登录加载已开始
+[09:07:10.878] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[09:07:10.881] [Launch] 登录方式：离线（YYDS_QAQ）
+[09:07:10.884] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[09:07:10.924] [Launch] 登录加载已结束
+[09:07:10.924] [Loader] 加载器 登录 状态改变：Finished
+[09:07:10.944] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[09:07:10.956] [Loader] 加载器 PCL 服务 状态改变：Loading
+[09:07:10.962] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[09:07:10.967] [Server] 正在连接到 PCL 服务器
+[09:07:10.993] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1687482431-44d7234b-0-5d63f69c8453135ca1049ec93e76047f，最大超时 10000
+[09:07:11.458] [Server] 服务器公告：108|294|293|5，无需更新
+[09:07:11.489] [Loader] 加载器 PCL 服务 状态改变：Finished
+[09:07:21.912] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 30000
+[09:07:25.631] [Control] 按下按钮：启动游戏
+[09:07:25.631] [Loader] 加载器 Loader Launch 状态改变：Loading
+[09:07:25.662] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\PCL\hints.txt
+[09:07:25.943] [Launch] 预检测已通过
+[09:07:25.959] [Download] 开始后台更新资源文件索引
+[09:07:25.959] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[09:07:25.974] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[09:07:25.974] [Download] 版本 1.18.2 对应的资源文件索引为 1.18
+[09:07:25.990] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[09:07:25.990] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[09:07:25.990] [Loader] 加载器 登录 状态改变：Waiting
+[09:07:25.990] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[09:07:25.990] [Loader] 加载器 获取 Java 状态改变：Loading
+[09:07:26.006] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[09:07:26.021] [Java] 开始完全遍历查找：D:\.minecraft\
+[09:07:26.037] [Loader] 加载器 登录 状态改变：Loading
+[09:07:26.115] [Java] 开始完全遍历查找：D:\.minecraft\versions\1.18.2\
+[09:07:26.115] [System] 执行外部命令并等待返回结果：D:\software\java\bin\java.exe -version
+[09:07:27.427] [Java] 选定的 Java：JDK 17 (17.0.7)，64 位：D:\software\java\bin\
+[09:07:27.427] [Launch] 选择的 Java：JDK 17 (17.0.7)，64 位：D:\software\java\bin\
+[09:07:27.427] [Loader] 加载器 获取 Java 状态改变：Finished
+[09:07:28.177] [Launch] 登录加载已开始
+[09:07:28.177] [Launch] 登录加载已结束
+[09:07:28.240] [Loader] 加载器 登录 状态改变：Finished
+[09:07:28.240] [Loader] 加载器 补全文件 状态改变：Loading
+[09:07:28.240] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[09:07:28.240] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[09:07:28.240] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[09:07:28.240] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[09:07:28.240] [Download] 版本 1.18.2 对应的资源文件索引为 1.18
+[09:07:28.334] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[09:07:28.334] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[09:07:28.396] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[09:07:28.396] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[09:07:29.318] [Minecraft] 获取支持库列表：1.18.2
+[09:07:29.834] [Download] 1.18.json 134#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/d31a2e85ae149dd1b1a7070b22cb8887892fda6c/1.18.json
+[09:07:30.724] [Animation] 两个动画帧间隔 312 ms
+[09:07:31.177] [Animation] 两个动画帧间隔 250 ms
+[09:07:31.615] [Animation] 两个动画帧间隔 235 ms
+[09:07:32.443] [Animation] 两个动画帧间隔 218 ms
+[09:07:33.349] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[09:07:33.349] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[09:07:33.365] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[09:07:33.365] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[09:07:33.875] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[09:07:33.875] [Loader] 加载器 下载资源文件 状态改变：Loading
+[09:07:33.882] [Loader] 加载器 下载资源文件 状态改变：Finished
+[09:07:33.882] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[09:07:33.882] [Loader] 加载器 补全文件 状态改变：Finished
+[09:07:33.889] [Loader] 加载器 获取启动参数 状态改变：Loading
+[09:07:33.927] [Launch] 开始获取 Minecraft 启动参数
+[09:07:33.927] [Launch] 获取新版 JVM 参数
+[09:07:33.934] [Launch] 当前剩余内存：1.6G
+[09:07:33.980] [System] 获取资源：JavaWrapper
+[09:07:33.982] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[09:07:33.990] [Launch] 新版 JVM 参数获取成功：
+[09:07:33.990] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Xmn256m -Xmx1536m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.client.main.Main
+[09:07:33.990] [Launch] 获取新版 Game 参数
+[09:07:33.996] [Launch] 新版 Game 参数获取成功
+[09:07:34.004] [Minecraft] 获取支持库列表：1.18.2
+[09:07:34.057] [Launch] Minecraft 启动参数：
+[09:07:34.093] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\.minecraft\versions\1.18.2\1.18.2-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=293 -cp "D:\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;D:\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;D:\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;D:\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;D:\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;D:\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;D:\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;D:\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;D:\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\.minecraft\libraries\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;D:\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;D:\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;D:\.minecraft\libraries\com\mojang\datafixerupper\4.1.27\datafixerupper-4.1.27.jar;D:\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;D:\.minecraft\libraries\com\mojang\authlib\3.3.39\authlib-3.3.39.jar;D:\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;D:\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;D:\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;D:\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;D:\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;D:\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;D:\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;D:\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;D:\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;D:\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;D:\.minecraft\libraries\com\mojang\text2speech\1.12.4\text2speech-1.12.4.jar;D:\.minecraft\versions\1.18.2\1.18.2.jar" -Xmn256m -Xmx1536m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.client.main.Main --username YYDS_QAQ --version 1.18.2 --gameDir "D:\.minecraft" --assetsDir "D:\.minecraft\assets" --assetIndex 1.18 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX72E43 --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX72E43 --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 
+[09:07:34.093] [Loader] 加载器 获取启动参数 状态改变：Finished
+[09:07:34.237] [Loader] 加载器 解压文件 状态改变：Loading
+[09:07:34.373] [Launch] 正在解压 Natives 文件
+[09:07:34.545] [Loader] 加载器 解压文件 状态改变：Finished
+[09:07:34.548] [Loader] 加载器 预启动处理 状态改变：Loading
+[09:07:34.599] [Launch] 并非首次启动，不修改语言
+[09:07:34.610] [Loader] 加载器 预启动处理 状态改变：Finished
+[09:07:34.655] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[09:07:34.812] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[09:07:34.820] [Loader] 加载器 启动进程 状态改变：Loading
+[09:07:34.865] [Launch] 已启动游戏进程：D:\software\java\bin\javaw.exe
+[09:07:34.869] [Loader] 加载器 启动进程 状态改变：Finished
+[09:07:34.974] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[09:07:34.997] [Launch] 
+[09:07:34.997] [Launch] ~ 基础参数 ~
+[09:07:34.997] [Launch] PCL 版本：Release 2.6.1 (293)
+[09:07:34.997] [Launch] 游戏版本：原版 1.18.2（18.2）
+[09:07:34.997] [Launch] 资源版本：1.18
+[09:07:34.997] [Launch] 版本继承：无
+[09:07:34.997] [Launch] 分配的内存：1.4 GB（1434 MB）
+[09:07:34.997] [Launch] MC 文件夹：D:\.minecraft\
+[09:07:34.997] [Launch] 版本文件夹：D:\.minecraft\versions\1.18.2\
+[09:07:34.997] [Launch] 版本隔离：False
+[09:07:34.997] [Launch] HMCL 格式：False
+[09:07:34.997] [Launch] Java 信息：JDK 17 (17.0.7)，64 位：D:\software\java\bin\
+[09:07:34.998] [Launch] 环境变量：已设置
+[09:07:34.998] [Launch] 
+[09:07:34.998] [Launch] ~ 登录参数 ~
+[09:07:34.998] [Launch] 玩家用户名：YYDS_QAQ
+[09:07:34.998] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX72E43
+[09:07:34.998] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX72E43
+[09:07:34.998] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX72E43
+[09:07:34.998] [Launch] 登录方式：Legacy
+[09:07:34.998] [Launch] 
+[09:07:35.043] [Launch] [2528] 开始 Minecraft 日志监控
+[09:07:35.044] [Launch] [全局] 出现运行中的 Minecraft
+[09:07:35.612] [Animation] 两个动画帧间隔 578 ms
+[09:07:35.907] [Report] FPS 0, 动画 6, 下载中 1（0 B/s）
+[09:07:37.093] [Launch] [2528] 日志 1/5：已出现日志输出
+[09:07:37.322] [Control] 按下图标按钮：BtnTitleMin
+[09:07:39.790] [Download] 1.18.json 134#：超时（6s）
+[09:07:39.960] [Download] 1.18.json 221#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/d31a2e85ae149dd1b1a7070b22cb8887892fda6c/1.18.json
+[09:07:41.026] [Animation] 两个动画帧间隔 235 ms
+[09:07:43.022] [Animation] 两个动画帧间隔 890 ms
+[09:07:56.947] [Animation] 两个动画帧间隔 9875 ms
+[09:07:57.577] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 4000
+[09:07:57.947] [Download] 1.18.json 221#：超时（12s）
+[09:07:58.220] [Download] 1.18.json 265#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/d31a2e85ae149dd1b1a7070b22cb8887892fda6c/1.18.json
+[09:08:01.733] 加载线程 DlClientList Mojang (17) 发生运行时错误：连接服务器超时，已接收 0 B（https://launchermeta.mojang.com/mc/game/version_manifest.json）
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+   在 PCL.ModNet.NetGetCodeRequest(String Url, Encoding Encode, Int32 Timeout, Boolean IsJson, String Accept)
+   在 PCL.ModNet.NetGetCodeByRequestRetry(String Url, Encoding Encode, String Accept, Boolean IsJson, String BackupUrl)
+   在 PCL.ModDownload.DlClientListMojangMain(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+错误类型：System.TimeoutException
+[09:08:01.733] [Loader] 加载器 DlClientList Mojang 状态改变：Failed
+[09:08:03.827] [Launch] [2528] 日志 2/5：游戏用户已设置
+[09:08:04.341] [Launch] [2528] 日志 3/5：LWJGL 版本已确认
+[09:08:04.900] [Launch] [2528] Minecraft 窗口已加载：Minecraft 1.18.2（132096）
+[09:08:17.685] [Download] 1.18.json 265#：超时（18s）
+[09:08:20.080] [Launch] [2528] Minecraft 加载已完成
+[09:08:20.146] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[09:08:20.151] [Loader] 加载器 结束处理 状态改变：Loading
+[09:08:20.180] [Launch] 开始启动结束处理
+[09:08:20.180] [Launch] 启动器可见性：5
+[09:08:20.181] [Loader] 加载器 结束处理 状态改变：Finished
+[09:08:20.270] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[09:08:20.396] [Loader] 加载器 Loader Launch 状态改变：Finished
+[09:08:20.424] [UI] 弹出提示：1.18.2 启动成功！
+[09:08:22.323] [Download] 1.18.json 351#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/d31a2e85ae149dd1b1a7070b22cb8887892fda6c/1.18.json
+[09:08:23.087] [Report] FPS 0, 动画 0, 下载中 1（0 B/s）
+[09:08:37.092] [Launch] [2528] 日志 4/5：OpenAL 已加载
+[09:08:37.745] [Launch] [2528] 日志 5/5：材质已加载
+[09:08:46.465] [Download] 1.18.json 351#：超时（24s）
+[09:08:46.772] [Download] 1.18.json 368#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/d31a2e85ae149dd1b1a7070b22cb8887892fda6c/1.18.json
+[09:09:15.612] [Animation] 两个动画帧间隔 219 ms
+[09:09:20.502] [Animation] 两个动画帧间隔 235 ms
+[09:09:21.065] [Download] 1.18.json 368#：超时（30s）
+[09:09:21.156] [Download] 1.18.json 369#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/d31a2e85ae149dd1b1a7070b22cb8887892fda6c/1.18.json
+[09:09:22.771] [Animation] 两个动画帧间隔 281 ms
+[09:09:28.771] [Animation] 两个动画帧间隔 219 ms
+[09:09:29.082] [Animation] 两个动画帧间隔 313 ms
+[09:09:29.743] [Animation] 两个动画帧间隔 250 ms
+[09:09:30.147] [Animation] 两个动画帧间隔 203 ms
+[09:09:31.678] [Animation] 两个动画帧间隔 594 ms
+[09:09:32.931] [Control] 按下图标按钮：BtnTitleClose
+[09:09:33.012] [System] 收到关闭指令
+[09:09:33.239] [System] 程序已退出，返回值：Success
